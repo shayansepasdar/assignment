@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">EMI Calculator</string>
+    <string name="hint_principal">Principal Amount $</string>
+    <string name="hint_interest">Interest rate per Year %</string>
+    <string name="hint_years">How Many Years</string>
+    <string name="hint_emi">EMI $</string>
+    <string name="hint_interest_total">Total Interest for Loan $</string>
+    <string name="next"></string>
+    <string name="hello_first_fragment"></string>
+    <string name="action_settings"></string>
+    <string name="first_fragment_label"></string>
+<string name="second_fragment_label"></string>
+    <string name="previous"></string>
+</resources>
